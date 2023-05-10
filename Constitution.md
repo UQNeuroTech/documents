@@ -1,6 +1,6 @@
-# Constitution of UQ Mechatronics and Robotics Society
+# Constitution of UQ NeuroTech
 
-The constitution is enacted on this 9th day of March in the year 2023.
+The constitution is enacted on this 11th day of May in the year 2023.
 
 ---
 
@@ -15,7 +15,7 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 ## 2 NAME
 
-2.1 The Club shall be called the "UQ Mechatronics and Robotics Society", otherwise abbreviated to "UQ MARS".
+2.1 The Club shall be called "UQ NeuroTech".
 
 2.2 The Club shall be an associated body of the The Union in the category of Faculty/Departmental.
 
@@ -23,9 +23,11 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 3.1 The aims of The Club are:
 
-* to bring members of the UQ community interested in mechatronics and robotics together to form a dedicated club
-* to provide a relaxed club and environment where students who have no experience will be provided resources and the expertise of more experience, giving them the ability to build their own mechatronic systems
-* to provide a centralised group for enthusiasts who may wish to compete on behalf of UQ at higher level robotics competitions
+* To bring members of the UQ community interested in neurotechnology, neuroengineering and neuroscience together to form a dedicated club.
+* To provide opportunity for members to gain hands-on experience with neurotechnology through workshops, hackathons and projects using borrowed as well as club-owned hardware/resources. 
+* To facilitate networking with industry professionals, neurotech companies, and the global neurotechnology industry.
+* To provide a place for free discussion about neurotechnology, and for members to deepen their knowledge about the field.
+* to provide a centralised group for enthusiasts who may wish to compete on behalf of UQ at higher level neurotech competitions
 
 3.2 Non-Profit Clause: The assets and income of The Club shall be applied solely in furtherance of its abovementioned objects and no portion shall be distributed directly or indirectly to the members of The Club except as bona fide compensation for services rendered or expenses incurred on behalf of The Club.
 
@@ -59,9 +61,7 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 * fails to comply with any of the provisions of these rules
 * has membership fees in arrears
-* conducts himself or herself in a manner considered to be injurious or prejudicial to the character or interests of The Club,
-
-    the Executive Team shall consider whether the member's membership shall be terminated.
+* conducts himself or herself in a manner considered to be injurious or prejudicial to the character or interests of The Club, the Executive Team shall consider whether the member's membership shall be terminated.
 
 6.4 The member concerned shall be given a full and fair opportunity of presenting the member's case and if the Executive Team resolves to terminate the membership it shall instruct the secretary to advise the member in writing accordingly.
 
@@ -87,7 +87,6 @@ The constitution is enacted on this 9th day of March in the year 2023.
 * any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections.
 * in the case of a secret ballot, the assembly will select a returning officer, who cannot be nominated for membership of the Executive Team and who shall be responsible for ensuring the orderly running of elections.
 
-8.4 There shall at no time be less than three (3) members on the Executive Team (the T3), and no more than $\max{\left(10, \left\lfloor \sqrt{2n} \right\rfloor\right)}$ members on the Executive Team where $n$ represents the number of financial members of The Club as of the beginning of the most recent Annual General Meeting.
 
 ## 9 RESIGNATION OR REMOVAL FROM OFFICE OF MEMBER OF EXECUTIVE TEAM
 
@@ -103,7 +102,7 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 ## 10 VACANCIES ON EXECUTIVE TEAM
 
-10.1 The Executive Team shall have power at any time to appoint any member of The Club to fill any position on the Executive Team, other than the T3 Officers, until the next annual general meeting, provided that their appointment abides by the restrictions imposed in 8.4.
+10.1 The Executive Team shall have power at any time to appoint any member of The Club to fill any position on the Executive Team, other than the T3 Officers, until the next annual general meeting.
 
 10.2 Any such appointments shall be approved by all T3 Officers and determined by a vote of 70% majority of the members present at a quorate meeting of the Executive Team (per 12.5).
 
@@ -278,12 +277,6 @@ the meeting within fourteen (14) days of:
 ## 24 DISSOLUTION CLAUSE
 
 24.1 In the event of The Club being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association with similar purposes which is not carried on for the profit for gain of its individual members.
-
-## 25 ACQUISITION CLAUSE
-
-25.1 In the event that The Club is ever acquired by another Club/Society or enters into a subsidiary affiliation agreement, this shall occur for an up-front cost no less than one hundred thousand (100,000) Australian dollars to be channelled to be used in-line with the purpose of The Club.
-
-25.2 From the date that such acquisition / agreement is finalised, the name of this Club/Society shall be changed to the "UQ Robotics and Technology Society", otherwise abbreviated to "UQ RATS" for a period no less than three (3) years.
 
 ## 26 DOCUMENTS
 
