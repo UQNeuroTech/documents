@@ -278,7 +278,7 @@ the meeting within fourteen (14) days of:
 
 24.1 In the event of The Club being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association with similar purposes which is not carried on for the profit for gain of its individual members.
 
-## 26 DOCUMENTS
+## 25 DOCUMENTS
 
 26.1 The Executive Team shall provide for the safe custody of books, documents, instruments of title and securities of The Club.
 
