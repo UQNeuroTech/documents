@@ -1,69 +1,39 @@
 # UQNeuroTech Club - Code of Conduct
 
-## Introduction
+## Our Pledge
 
-The UQNeuroTech Club Code of Conduct outlines our commitment to ethical conduct, core values, and behavioral expectations that are instrumental in cultivating and maintaining a positive culture. We value and promote honesty and trust, respect, accountability, and fairness.
+As members, contributors, and leaders of UQNeuroTech, we pledge to foster a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. We are committed to cultivating an open, welcoming, diverse, inclusive, and healthy community.
+
+## Our Standards
+
+- **Honesty and Trust**: We value honesty and trust by being open, truthful, sincere, and straightforward in our intentions and actions. We encourage open communication, acknowledge the contributions of others, admit and rectify our mistakes promptly, and uphold the confidentiality and privacy of official UQNeuroTech information.
+
+- **Respect**: We promote a respectful environment that values individuality, diversity, and kindness. We commit to communicate courteously, promote a culture that does not tolerate bullying or harassment, value diversity, and maintain an environment free from all forms of discrimination.
+
+- **Accountability**: We take responsibility for our actions or inactions, comply with relevant requirements, promote good governance principles, and keep up-to-date with advances and changes in neurotechnology.
+
+- **Fairness**: We demonstrate fairness through openness and impartiality in our work and decision-making processes. We are inclusive, impartial, and committed to a workplace free from bullying and harassment.
 
 ## Scope
 
-The Code of Conduct applies to all members, volunteers, and representatives of UQNeuroTech Club. All are expected to act in alignment with this Code while participating in club activities. Violations of the Code may result in disciplinary action, depending on the severity of the circumstances.
+This Code of Conduct applies to all UQNeuroTech community spaces and also when an individual is officially representing our community. All members, volunteers, and representatives of UQNeuroTech are expected to act in alignment with this Code while participating in club activities. Violations may result in disciplinary action.
 
-## The Code
+## Enforcement
 
-### Honesty and Trust
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at contact@uqneurotech.com. All complaints will be reviewed and investigated promptly and fairly, respecting the privacy and security of the reporter.
 
-We value honesty and trust by being transparent, sincere, and straightforward in our intentions and actions. 
+## Enforcement Guidelines
 
-We will:
+Community leaders will follow these guidelines in determining the consequences for any action deemed in violation of this Code of Conduct:
 
-- Encourage open communication and collaboration.
-- Be reliable, ensuring that decisions are implemented.
-- Take responsibility for our work and recognize others' contributions.
-- Maintain transparency and provide clear rationales for decisions.
-- Admit and rectify our mistakes promptly.
-- Be cooperative with UQNeuroTech members and the University of Queensland community.
-- Respect the confidentiality and privacy of official UQNeuroTech information.
-- Share responsibility for UQNeuroTech's success and proactively participate in its endeavors.
+1. **Correction**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community leads to a private, written warning, providing clarity around the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
 
-### Respect
+2. **Warning**: A violation through a single incident or series of actions results in a warning with consequences for continued behavior. Violating these terms may lead to a temporary or permanent ban.
 
-We value respect, individuality, diversity, and aim to treat everyone with courtesy and sensitivity. 
+3. **Temporary Ban**: A serious violation of community standards, including sustained inappropriate behavior, results in a temporary ban from any sort of interaction or public communication with the community.
 
-We will:
+4. **Permanent Ban**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals, results in a permanent ban from any sort of public interaction within the community.
 
-- Communicate courteously with everyone.
-- Treat others with compassion and kindness.
-- Behave in a way that doesn't offend, degrade, or humiliate others.
-- Promote a culture that does not tolerate bullying or harassment.
-- Value diversity through appreciating differences and others’ opinions.
-- Maintain respect for all cultural backgrounds.
-- Be committed to an environment free from all forms of discrimination.
-- Behave professionally and appropriately as a representative of UQNeuroTech.
+This Code of Conduct is a commitment we make as a community to uphold the highest standards of conduct. Together, let's foster a respectful and inclusive environment that encourages learning and growth in the field of neurotechnology. 
 
-### Accountability
-
-We value accountability and take responsibility for our actions or inactions. 
-
-We will:
-
-- Comply with any relevant legislative, industrial or administrative requirements.
-- Promote the principles of good governance.
-- Acknowledge and take responsibility for our actions.
-- Be aware of and declare any conflicts of interest.
-- Keep up-to-date with advances and changes in neurotechnology.
-- Use current and accurate information, data, and documentation.
-- Perform our duties to the best of our abilities.
-
-### Fairness
-
-We value fairness, demonstrated by openness and impartiality in our work and decision-making processes. 
-
-We will:
-
-- Be inclusive and treat everyone equitably, consistently, and appropriately.
-- Be impartial and balanced in decision-making.
-- Share and provide information that is accurate, complete, and timely.
-- Show compassion and make reasonable adjustments when accommodating others’ needs.
-- Be committed to a workplace that is free from bullying and harassment.
-
-This Code of Conduct is not just a document but a commitment we make as a community to uphold the highest standards of conduct. Together, let's foster a respectful and inclusive environment that encourages learning and growth in the field of neurotechnology.
+Attribution: This Code of Conduct is inspired by the Contributor Covenant, version 2.0, available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html) and the University of Queensland Union Code of Conduct.
