@@ -280,6 +280,6 @@ the meeting within fourteen (14) days of:
 
 ## 25 DOCUMENTS
 
-26.1 The Executive Team shall provide for the safe custody of books, documents, instruments of title and securities of The Club.
+25.1 The Executive Team shall provide for the safe custody of books, documents, instruments of title and securities of The Club.
 
-26.2 The financial year of The Club shall close on 31 August in each year.
+25.2 The financial year of The Club shall close on 31 August in each year.
