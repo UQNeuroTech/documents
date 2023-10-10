@@ -13,15 +13,16 @@ President: Reuben Richardson
 
 Treasurer: Ayman Diallo
 
-Secretary: Reuben Richardson
+Secretary: Seijun Stokes
 
 ### Rest of Team
 
 * Jahan Patel (Marketing Officer)
-* Ashlin (Marketing Officer)
+* Ashlin Sam Ajith (Marketing Officer)
 * Isabel Barton (Partnerships Officer)
-* Annabelle (Events Officer)
-* Mae (Events Officer)
-* Angus (Events Officer)
+* Annabelle Grosser (Events Officer)
+* Mae Budden (Events Officer)
+* Tian Chee Angus Cheung (Events Officer)
 * Jet Garcia (Projects / Competitions Officer)
+* Devin Barui (Development Officer)
 
