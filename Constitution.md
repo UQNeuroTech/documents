@@ -19,6 +19,8 @@ The constitution is enacted on this 11th day of May in the year 2023.
 
 2.2 The Club shall be an associated body of the The Union in the category of Faculty/Departmental.
 
+2.3 The club shall adopt the abbreviation of UQNT or UQNTech
+
 ## 3 AIMS & OBJECTIVES
 
 3.1 The aims of The Club are:
@@ -30,6 +32,15 @@ The constitution is enacted on this 11th day of May in the year 2023.
 * to provide a centralised group for enthusiasts who may wish to compete on behalf of UQ at higher level neurotech competitions
 
 3.2 Non-Profit Clause: The assets and income of The Club shall be applied solely in furtherance of its abovementioned objects and no portion shall be distributed directly or indirectly to the members of The Club except as bona fide compensation for services rendered or expenses incurred on behalf of The Club.
+
+3.3 Free and Open Source (FOSS) Clause:
+
+a. Any software and/or hardware product created under the name of UQ NeuroTech must be made free (libre), by attaching a GPL-Compatible Free Software License to the work, before distribution to the public or memberbase.
+
+b. Clause 3.3a can be overturned for a particular project / product if ALL the following conditions are met:
+- A reason for overturning is given publically and is logged inside of a document on a publicly accessible repository for the duration of the life of the project / product
+- A Special General Meeting is called and a majority vote (of members) in favor of overturning 3.3a occurs
+- The current UQ NeuroTech President votes in favor of the overturning of 3.3a for the project at the Special General Meeting
 
 ## 4 MEMBERSHIP
 
@@ -75,7 +86,7 @@ The constitution is enacted on this 11th day of May in the year 2023.
 
 ## 8 MEMBERSHIP OF EXECUTIVE TEAM
 
-8.1 The Executive Team of The Club shall consist of the T3 Officers, all of whom shall be members of The Club, and such number of other members as the members of The Club at any general meeting may from time to time elect, provided it meets the requiremments imposed by 8.4. All the aforestated office bearers must be members of The Union. Membership of the Executive Team shall not be restricted other than by being a member of The Union.
+8.1 The Executive Team of The Club shall consist of the T3 Officers, all of whom shall be members of The Club, and such number of other members as the members of The Club at any general meeting may from time to time elect, provided it meets the requiremments imposed by 9.4. All the aforestated office bearers must be members of The Union. Membership of the Executive Team shall not be restricted other than by being a member of The Union.
 
 8.2 At the annual general meeting of The Club, all the members of the Executive Team for the time being shall retire from office, but shall be eligible upon nomination for re-election.
 
@@ -86,6 +97,8 @@ The constitution is enacted on this 11th day of May in the year 2023.
 * at the commencement of such meeting, nominations may be taken from those present provided that they are seconded by someone else in attendance.
 * any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections.
 * in the case of a secret ballot, the assembly will select a returning officer, who cannot be nominated for membership of the Executive Team and who shall be responsible for ensuring the orderly running of elections.
+
+8.4 The Vice-President role can exist as a special type of general executive. The Vice-President of the club must be elected by the T3 and will have to previously be a part of the Executive team before being selected for the position. 
 
 
 ## 9 RESIGNATION OR REMOVAL FROM OFFICE OF MEMBER OF EXECUTIVE TEAM
