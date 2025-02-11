@@ -7,17 +7,17 @@ when the club was founded.
 
 ## 2023 Executive Team
 
-***President:*** Reuben Richardson
-***Secretary:*** Seijun Stokes
-***Treasurer:*** Ayman Diallo
-***Marketing Officer:*** Jahan Patel
-***Marketing Officer:*** Ashlin Sam Ajith
-***Partnerships Officer:*** Isabel Barton
-***Events Officer:*** Annabelle Grosser
-***Events Officer:*** Mae Budden
-***Events Officer:*** Angus Cheung
-***Projects / Competitions Officer:*** Jet Garcia
-***Development Officer:*** Devin Barui
+- ***President:*** Reuben Richardson
+- ***Secretary:*** Seijun Stokes
+- ***Treasurer:*** Ayman Diallo
+- ***Marketing Officer:*** Jahan Patel
+- ***Marketing Officer:*** Ashlin Sam Ajith
+- ***Partnerships Officer:*** Isabel Barton
+- ***Events Officer:*** Annabelle Grosser
+- ***Events Officer:*** Mae Budden
+- ***Events Officer:*** Angus Cheung
+- ***Projects / Competitions Officer:*** Jet Garcia
+- ***Development Officer:*** Devin Barui
 
 ## 2024 Executive Team
 
