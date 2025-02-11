@@ -1,4 +1,4 @@
-# Current and Previous Executives of UQ MARS
+# Current and Previous Executives of UQ NeuroTech
 
 This document contains a list of all club executives since 2023,
 when the club was founded. 
