@@ -7,22 +7,29 @@ when the club was founded.
 
 ## 2023 Executive Team
 
-### T3
+***President:*** Reuben Richardson
+***Secretary:*** Seijun Stokes
+***Treasurer:*** Ayman Diallo
+***Marketing Officer:*** Jahan Patel
+***Marketing Officer:*** Ashlin Sam Ajith
+***Partnerships Officer:*** Isabel Barton
+***Events Officer:*** Annabelle Grosser
+***Events Officer:*** Mae Budden
+***Events Officer:*** Angus Cheung
+***Projects / Competitions Officer:*** Jet Garcia
+***Development Officer:*** Devin Barui
 
-President: Reuben Richardson
+## 2024 Executive Team
 
-Treasurer: Ayman Diallo
-
-Secretary: Seijun Stokes
-
-### Rest of Team
-
-* Jahan Patel (Marketing Officer)
-* Ashlin Sam Ajith (Marketing Officer)
-* Isabel Barton (Partnerships Officer)
-* Annabelle Grosser (Events Officer)
-* Mae Budden (Events Officer)
-* Tian Chee Angus Cheung (Events Officer)
-* Jet Garcia (Projects / Competitions Officer)
-* Devin Barui (Development Officer)
+- ***President:*** Ayman Diallo
+- ***Secretary:*** Jahan Patel
+- ***Treasurer:*** Reuben Richardson
+- ***Events Officer:*** Angus Cheung
+- ***Partnerships Officer:*** Isabel Barton 
+- ***Partnerships Officer:*** Ahash Ganeshamoorthy
+- ***Technical Officer:*** Devin Barui
+- ***Media Officer:*** Gia Hao Vo
+- ***Technical Officer:*** Kavisha Welgama 
+- ***Media Officer:*** Vitória Fernandes Luft
+- ***Events Officer:*** Samantha Keirl
 
