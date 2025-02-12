@@ -33,3 +33,12 @@ when the club was founded.
 - ***Media Officer:*** Vitória Fernandes Luft
 - ***Events Officer:*** Samantha Keirl
 
+## 2025 Executive Team
+
+- ***President:*** Reuben Richardson
+- ***Secretary:*** Isabel Barton
+- ***Treasurer:*** Angus Cheung
+- ***Events Lead Officer*** Samantha Keirl
+- ***Media Lead Officer*** Vitória Fernandes Luft
+- ***Development Team Lead*** Liam Withnall
+
