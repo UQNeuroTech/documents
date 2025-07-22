@@ -41,4 +41,7 @@ when the club was founded.
 - ***Events Lead Officer*** Samantha Keirl
 - ***Media Lead Officer*** Vitória Fernandes Luft
 - ***Development Team Lead*** Liam Withnall
+- ***General Executive:*** Henry Lau
+- ***General Executive:*** Thea Woolley
+- ***General Executive:*** Jacqueline Wei
 
