@@ -12,6 +12,9 @@ The constitution is enacted on this 11th day of May in the year 2023.
 * "The Union" shall refer to the University of Queensland Union.
 * "Executive Team" shall refer to the team of members responsible for the administration and running of the club.
 * "T3 Officers" shall refer to those in the 'top 3' positions of the Executive Team (president, treasurer and secretary).
+* "Media Team" shall refer to any member, officer or subcommittee charged with producing or publishing The Club's marketing, promotional or communications material, whatever the title of the position held (for example Media Officer or Marketing Officer), together with any other person producing such material on behalf of The Club.
+* "Marketing Material" shall refer to any image, video, audio, text or graphic that The Club publishes or distributes for the purpose of promoting The Club, its events, projects, activities or sponsors. This includes social media posts and their captions, flyers, posters, banners, slide decks shown publicly, newsletters and emails to the memberbase, event listings, merchandise designs, and website copy.
+* "Generative AI" shall refer to any computational system that produces novel text, images, video or audio in response to a prompt or comparable instruction, including (but not limited to) large language models and text-to-image or diffusion models.
 
 ## 2 NAME
 
@@ -41,6 +44,29 @@ b. Clause 3.3a can be overturned for a particular project / product if ALL the f
 - A reason for overturning is given publically and is logged inside of a document on a publicly accessible repository for the duration of the life of the project / product
 - A Special General Meeting is called and a majority vote (of members) in favor of overturning 3.3a occurs
 - The current UQ NeuroTech President votes in favor of the overturning of 3.3a for the project at the Special General Meeting
+
+3.4 No AI-Generated Marketing Material Clause:
+
+a. The Media Team must not use Generative AI to produce any part of The Club's Marketing Material. Every image, illustration, video, audio recording and piece of written copy that The Club publishes must be drawn, photographed, recorded, designed or written by a human being.
+
+b. Clause 3.4a does not prohibit the following, provided the published work remains human-authored:
+- Proofreading tools that check spelling, grammar or punctuation in human-written copy, and translation of human-written copy.
+- Assistive and accessibility tooling, including transcription or captioning of a recording of real human speech, and draft alt-text that a human reviews and corrects before publication.
+- Non-generative editing of human-authored source material that does not invent new subject matter, such as noise reduction, upscaling, cropping, colour correction, background removal or blemish removal.
+- Private use of Generative AI for brainstorming, research or feedback, provided that no AI-generated text or imagery is reproduced, in whole or in substantial part, in the published Marketing Material.
+- Material in which AI output is itself the subject matter, such as promotion of a workshop, talk or project concerning generative models, or display of the output of a Club project. Any such output must be visibly labelled as AI-generated in the published material.
+- Third-party material that The Club reproduces but did not produce, such as a sponsor's supplied artwork or logo, or an external competition's own event graphic. The Club must not commission or request AI-generated material from a third party for the purpose of circumventing 3.4a.
+
+c. Where Marketing Material incorporates stock or third-party assets, the Media Team must take reasonable steps to satisfy itself that those assets are not AI-generated.
+
+d. Material that is not published or distributed outside The Club - such as internal documents, meeting minutes, exec slide decks and project code - is not Marketing Material and is not restricted by this clause. The Free and Open Source Clause (3.3) continues to govern software and hardware products.
+
+e. The member of the Executive Team responsible for the Media Team, or where there is no such member the president, is accountable for compliance with this clause. Where Marketing Material is published in breach of 3.4a it must be removed or replaced as soon as practicable after the breach is identified, and the breach must be recorded in the minutes of the next Executive Team meeting.
+
+f. Clause 3.4a can be overturned for a particular item or campaign only if ALL the following conditions are met:
+- A reason for overturning is given publically and is logged inside of a document on a publicly accessible repository for the duration of the time the material remains published
+- A Special General Meeting is called and a majority vote (of members) in favor of overturning 3.4a occurs
+- The current UQ NeuroTech President votes in favor of the overturning of 3.4a for that item or campaign at the Special General Meeting
 
 ## 4 MEMBERSHIP
 
